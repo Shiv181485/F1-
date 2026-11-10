@@ -1,0 +1,8 @@
+-r requirements.txt
+matplotlib
+arcade
+pyglet
+PySide6
+questionary
+rich
+paho-mqtt>=2.0

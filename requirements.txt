@@ -1,0 +1,8 @@
+streamlit>=1.38,<2
+plotly>=5.20
+pandas>=2.0
+requests>=2.31
+python-dotenv>=1.0
+numpy>=1.26
+fastf1>=3.4
+psycopg2-binary>=2.9
